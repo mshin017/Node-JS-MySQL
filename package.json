@@ -1,0 +1,23 @@
+{
+  "name": "node-js-mysql",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront with MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshin017/Node-JS-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshin017/Node-JS-MySQL/issues"
+  },
+  "homepage": "https://github.com/mshin017/Node-JS-MySQL#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
