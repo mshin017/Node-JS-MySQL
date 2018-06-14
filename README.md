@@ -9,5 +9,5 @@ https://drive.google.com/file/d/11d11LGnm6K6plgbvFEaBZibYfrugB6wv/view
 
 This app is able to receive, update, and insert it's data using MySQL Databse. In the tutorial, it is seen that I have bought 5 Macbook Pros and also added a new product of hats.  In the pictures below, it shows what the databases looked like before and after I added new data. 
 
-![alt text] (images/before.png "Before")
-![alt text] (images/after.png "After")
+<img width="467" alt="after" src="https://user-images.githubusercontent.com/37103582/41395528-e70af368-6f62-11e8-91ec-7740dd8c3e55.png">
+<img width="468" alt="before" src="https://user-images.githubusercontent.com/37103582/41395529-e724d1b6-6f62-11e8-8738-162e0664f354.png">
