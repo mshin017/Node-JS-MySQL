@@ -4,7 +4,7 @@ In the 'bamazonCustomer' app , it will take in orders from customers and deplete
 In the 'bamazonManager' app, it will allow you to access all of the store's inventory as well as viewing the items that need to be restocked and adding to it. And will be able to add new products to the store. 
 
 
-Below is a video of a tutorial of the app: 
+Here is a video of a tutorial of the app: 
 https://drive.google.com/file/d/11d11LGnm6K6plgbvFEaBZibYfrugB6wv/view
 
 This app is able to receive, update, and insert it's data using MySQL Databse. In the tutorial, it is seen that I have bought 5 Macbook Pros and also added a new product of hats.  In the pictures below, it shows what the databases looked like before and after I added new data. 
