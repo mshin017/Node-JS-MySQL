@@ -108,9 +108,11 @@ function buyProducts() {
                     }
                 );
             }
-            else {
+            else if (answer.quantity > chosenItem.stock_quantity) {
                 console.log("Sorry it seems like you want more than we actually have... please try again")
-                buyProducts();
+                setTimeout(function() {
+                    buyProducts();
+                  }, 2000);
             }
 
         })
