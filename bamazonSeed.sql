@@ -8,7 +8,8 @@ CREATE TABLE products (
     product VARCHAR(30) NOT NULL,
     department VARCHAR(30),
     price DECIMAL (10,2), 
-    stock_quanitity INT(10)
+    stock_quantity INT(10),
+    new_sq INT(10) default 0
 );
 
 INSERT INTO products (product, department, price, stock_quanitity)
